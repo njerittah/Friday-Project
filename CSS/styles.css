@@ -1,2 +1,14 @@
-.heads h1{font-style: oblique;
-font-family: sans-serif;font-size: 40 px.; color : #000080 ;}
+.heads h1
+{
+font-style: oblique;
+font-family: sans-serif;
+font-size: 40 px.;
+color : #000080 ;
+}
+.About h2
+{
+  font-style: normal;
+  font-family: sans-serif;
+  font-size: 33px.;
+  color: #FF00FF;
+}
