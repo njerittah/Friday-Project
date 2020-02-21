@@ -1,47 +1,11 @@
-.heads h1
-{
-font-style: oblique;
-font-family: sans-serif;
-font-size: 40 px.;
-color : #800080 ;
-background-color: #999999
+body{
+  background-image: url("../img/vee.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#demo {
+  color:blue;
+  font-style:normal;
+
 
 }
-.About h2
-{
-  font-style: normal;
-  font-family: sans-serif;
-  font-size: 33px.;
-  color: #800080;
-  background-color: #999999
-}
-.Purpose
-{font-style: normal;
-  font-family: sans-serif;
-  font-size: 30px.;
-  color: #800080;
-  background-color: #999999
-
-}
-.par{font-family: fantasy;;font-style: normal;font-size: 16 px;}
-.para{font-family: fantasy;font-style: normal;font-size: 16 px;}
-.header
-{font-style: normal;
-  font-family: sans-serif;
-  font-size: 16px;
-  color: 800080;
-  background-color: #999999
-}
-.Veef img
-{
-height: 500px ;
-width: 500px ;
-float: right;
-padding-left: 10 px ;
-border-left: 20 px ;
-border-color: 20 px ;
-
-margin 20 px ;
-background color: yellow ;
-border: 3 px blue ;
- }
